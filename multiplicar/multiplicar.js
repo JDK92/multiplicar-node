@@ -1,5 +1,4 @@
 const fs = require("fs");
-const colors = require("colors");
 
 let listarTabla = (base, limite) => {
   for (let i = 1; i <= limite; i++) {

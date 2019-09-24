@@ -1,5 +1,3 @@
-const colors = require("colors");
-
 const { argv } = require("./config/yargs");
 
 const { crearTabla, listarTabla } = require("./multiplicar/multiplicar");

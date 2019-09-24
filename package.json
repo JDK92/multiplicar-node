@@ -1,0 +1,17 @@
+{
+  "name": "basesnode",
+  "version": "1.0.0",
+  "description": "App de línea de comando",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "colors": "^1.4.0",
+    "yargs": "^13.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

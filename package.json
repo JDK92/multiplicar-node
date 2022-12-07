@@ -4,7 +4,7 @@
   "description": "App de línea de comando",
   "main": "app.js",
   "dependencies": {
-    "body-parser": "^1.19.0",
+    "body-parser": "^1.20.1",
     "colors": "^1.4.0",
     "yargs": "^13.3.0"
   },
